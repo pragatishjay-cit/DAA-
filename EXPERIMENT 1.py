@@ -79,10 +79,11 @@ print("Searching for:", target)
 print("Found at index:", index)
 print("Comparisons:", comparisons)
 print()
-
 performance_analysis()
 
 
+
+""""
 SAMPLE OUTPUT:
 
 Array: [8, 16, 24, 32, 40, 48, 56, 64, 72, 80, 88, 96]
@@ -97,3 +98,5 @@ Comparisons: 1
      10000        0.0025        0.0045            1           14
      50000        0.0029        0.0058            1           16
     100000        0.0033        0.0065            1           17
+    
+"""
