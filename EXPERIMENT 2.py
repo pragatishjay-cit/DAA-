@@ -126,6 +126,9 @@ for p in patterns:
     print("{:>10} {:>10} {:>10} {:>10}".format(p, c1, c2, c3))
 
 
+
+
+"""
 SAMPLE OUTPUT:
 Text: BANANABANDANA
 Pattern: ANA
@@ -140,3 +143,6 @@ RK    -> Matches: [1, 3, 10] Comparisons: 9
        ABA        9985       9998       1318
       ABCD        9987      10000        648
      BCDAB        9986       9999        327
+
+
+"""
