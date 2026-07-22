@@ -111,6 +111,8 @@ print("Total MST Cost:", p_cost)
 
 
 
+
+"""
 SAMPLE OUTPUT:
 === Kruskal's MST ===
 Edge (1 - 2) Weight: 2
@@ -127,3 +129,5 @@ Edge (2 - 3) Weight: 5
 Edge (3 - 5) Weight: 2
 Edge (3 - 4) Weight: 4
 Total MST Cost: 16
+
+"""
